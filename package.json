@@ -1,0 +1,19 @@
+{
+  "name": "express-testing-skeleton",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll",
+    "test:coverage": "jest --coverage",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "commonjs",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
